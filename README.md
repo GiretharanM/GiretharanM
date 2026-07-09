@@ -1,190 +1,329 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Giretharan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20AI%20and%20Analytics%20Learner&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Giretharan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20%20%7C%20AI%20and%20Application%20Developer&descAlignY=58&descSize=16" alt="header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology+Student+at+PSG+College+of+Technology;Building+Full+Stack+Applications+for+Real+World+Problems;Interested+in+AI%2C+Analytics%2C+IoT%2C+and+Database+Systems;Focused+on+Learning+Scalable+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology+Student+at+PSG+College+of+Technology;Building+Full+Stack+Applications+for+Real+World+Problems;Interested+in+AI%2C+Analytics%2C+IoT%2C+and+Database+Systems;Focused+on+Learning+Scalable+Software+Engineering" alt="Typing SVG"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/GiretharanM">
-    <img src="https://img.shields.io/badge/GitHub-GiretharanM-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/giretharan-m-9413a9283">
-    <img src="https://img.shields.io/badge/LinkedIn-Giretharan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:giretharanmurugesan3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-GiretharanM-181717?style=for-the-badge&logo=github)](https://github.com/GiretharanM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giretharan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giretharan-m-9413a9283)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giretharanmurugesan3@gmail.com)
+
 </div>
 
-## About Me
+---
 
-I am a B.Tech Information Technology student at PSG College of Technology, Coimbatore, with hands-on experience in full-stack web development, IoT systems, databases, and applied analytics. I enjoy building practical software that solves real business and safety problems through clean architecture, useful interfaces, and reliable data flow.
+# 💫 About Me
 
-My work includes full-stack business applications, IoT-based accident detection systems, and database-driven management solutions. I am especially interested in software engineering, AI-powered products, system design, database engineering, and real-world analytics.
+I am a **B.Tech Information Technology student** at **PSG College of Technology, Coimbatore**, passionate about **Full Stack Development, Artificial Intelligence, IoT, Analytics, and Database Engineering**.
 
-- Location: Coimbatore, Tamil Nadu
-- Current role focus: Full Stack Development, IoT, AI, and Analytics
-- Strengths: Problem solving, team collaboration, structured thinking, and practical implementation
-- Current goal: Build scalable end-to-end products that combine web, data, and embedded systems
+I enjoy building practical software that solves real-world problems through clean architecture, scalable backend systems, intuitive user interfaces, and data-driven solutions.
 
-## GitHub Snapshot
+- 🎓 B.Tech Information Technology (2023–2027)
+- 📍 Coimbatore, Tamil Nadu
+- 💻 Full Stack Developer
+- 🤖 AI & Analytics Learner
+- 🗄️ Database Engineering
+- 🚀 Currently building scalable software projects
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiretharanM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiretharanM&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GiretharanM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiretharanM&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GiretharanM&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://streak-stats.demolab.com?user=GiretharanM&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-## Tech Stack
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,nodejs,mysql,mongodb,git,github,vscode,linux&perline=6" alt="Skill Icons" />
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,mysql,mongodb,git,github,vscode,linux&perline=7"/>
+
 </div>
 
-### Languages
+## 👨‍💻 Languages
+
 - Python
+- Java
 - JavaScript
 - PHP
 - SQL
 
-### Frontend
+## 🌐 Frontend
+
 - HTML5
 - CSS3
+- JavaScript
 - jQuery
+- Bootstrap
 - JSON
 - XML
-- Responsive Design
+- Responsive Web Design
 
-### Backend and Database
+## ⚙️ Backend
+
 - Node.js
 - PHP
+- REST API
+- Express.js
+
+## 🗄️ Database
+
 - MySQL
 - Oracle
 - MongoDB
 - DBMS
-- SQL Triggers
-- Stored Procedures
-- REST APIs
+- SQL
+- Triggers
+- Database Normalization
 
-### IoT and Embedded
-- MicroPython
+## 📡 IoT
+
 - Raspberry Pi Pico
-- GPS
+- MicroPython
 - GSM
-- IR Sensor
+- GPS
 - MPU6050
+- IR Sensor
 
-### Core CS and Analytics
-- Data Structures and Algorithms
+## 🧠 Core Computer Science
+
+- Data Structures & Algorithms
 - Operating Systems
-- Computer Networks
-- Database Design
+- Database Management System
+- Software Engineering
 - Machine Learning Fundamentals
-- Data Analysis
-- Dashboard Development
-- System Design Basics
+- Data Analytics
+- System Design
 
-## Featured Projects
+---
+
+# ⭐ Featured Projects
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">SMARTPOS AI</h3>
-      <p align="center">
-        Smart business operations web application for billing, inventory, analytics, and multi-user access.
-      </p>
-      <p>
-        <strong>Highlights</strong><br/>
-        - Built a full-stack POS system with real-time billing and inventory workflows.<br/>
-        - Added AI-driven analytics for best-seller tracking, demand trends, and low-stock alerts.<br/>
-        - Designed dashboards for transactions, sales reports, and business insights.<br/>
-        - Improved performance with optimized queries and indexing.
-      </p>
-      <p>
-        <a href="https://github.com/GiretharanM/SMARTPOS-AI">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="SMARTPOS AI Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Smart Helmet</h3>
-      <p align="center">
-        IoT accident detection and emergency alert system built for rider safety.
-      </p>
-      <p>
-        <strong>Highlights</strong><br/>
-        - Used MicroPython, Raspberry Pi Pico, GPS, GSM, and crash-detection sensors.<br/>
-        - Triggered real-time location alerts for emergency contacts after accident detection.<br/>
-        - Added helmet wear detection and impact analysis for safer operation.<br/>
-        - Improved detection reliability through repeated field testing and threshold tuning.
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Traffic Violation DBMS</h3>
-      <p align="center">
-        Database-driven violation management system focused on automation and integrity.
-      </p>
-      <p>
-        <strong>Highlights</strong><br/>
-        - Designed normalized tables for vehicles, penalties, violations, and offenders.<br/>
-        - Implemented triggers for automated digital challan workflows.<br/>
-        - Used Oracle stored procedures for penalty processing and monthly reports.<br/>
-        - Applied 3NF normalization to reduce redundancy and improve consistency.
-      </p>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="33%">
+
+<h3 align="center">SMARTPOS AI</h3>
+
+<p align="center">
+
+Smart business operations platform for billing, inventory, analytics, and AI-powered business insights.
+
+</p>
+
+### Features
+
+- Real-time Billing
+- Inventory Management
+- Customer Management
+- Sales Analytics
+- AI Reports
+- Demand Prediction
+- Low Stock Alerts
+- Dashboard
+- Multi-user Login
+- Secure Authentication
+
+<p align="center">
+
+<a href="https://github.com/GiretharanM/SMARTPOS-AI">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+</td>
+
+<td width="33%">
+
+<h3 align="center">Smart Helmet</h3>
+
+<p align="center">
+
+IoT-based Accident Detection and Emergency Alert System.
+
+</p>
+
+### Features
+
+- Accident Detection
+- Helmet Detection
+- GPS Tracking
+- GSM Alerts
+- Emergency SMS
+- Impact Analysis
+- Rider Safety
+- Raspberry Pi Pico
+- MicroPython
+
+</td>
+
+<td width="33%">
+
+<h3 align="center">Traffic Violation DBMS</h3>
+
+<p align="center">
+
+Database Management System for Digital Traffic Violation Processing.
+
+</p>
+
+### Features
+
+- Oracle Database
+- SQL
+- Triggers
+- Stored Procedures
+- Challan Automation
+- Monthly Reports
+- Vehicle Records
+- Normalized Database
+
+</td>
+
+</tr>
+
 </table>
 
-## Education
+---
 
-- B.Tech in Information Technology, PSG College of Technology, Coimbatore
-- Academic period: 2023 - 2027
+# 🎓 Education
 
-## Coursework
+| Degree | Institution | Year |
+|---------|------------|------|
+| B.Tech Information Technology | PSG College of Technology | 2023 - 2027 |
 
-- Computer Networks
-- DBMS
-- Internet of Things
-- Operating Systems
+---
+
+# 📚 Coursework
+
 - Data Structures and Algorithms
 - Design and Analysis of Algorithms
+- Database Management System
+- Operating Systems
+- Computer Networks
+- Internet of Things
 - Machine Learning
 - Microprocessors and Microcontrollers
 - Linear Algebra
-- Discrete Mathematics
 - Automata Theory
-- Transformations
+- Discrete Mathematics
 
-## Achievements
+---
 
-- Scored 99% in Class X with strong academic consistency
-- Completed multiple academic and mini projects across web, IoT, and DBMS domains
-- Participated in volleyball, strengthening teamwork, discipline, and consistency
-- Built a strong mathematics foundation in discrete mathematics, linear algebra, and automata theory
+# 🏆 Achievements
 
-## Current Focus
+- 🥇 Scored **99%** in Class X
+- 💻 Developed multiple Full Stack, IoT, and DBMS projects
+- 📈 Strong analytical and mathematical background
+- 👨‍💻 Passionate about Software Engineering
 
-- Building end-to-end full stack applications
-- Exploring AI-powered product experiences
-- Strengthening backend engineering and database design
-- Learning scalable software development practices
-- Expanding practical experience in analytics and embedded systems
+---
 
-## Connect With Me
+# 🎯 Current Focus
+
+- Building Full Stack Applications
+- AI-powered Software Products
+- Backend Engineering
+- Database Design
+- Machine Learning
+- Analytics
+- System Design
+- IoT Solutions
+
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/GiretharanM">
-    <img src="https://img.shields.io/badge/GitHub-GiretharanM-181717?style=flat-square&logo=github" alt="GitHub badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/giretharan-m-9413a9283">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="mailto:giretharanmurugesan3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-giretharanmurugesan3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiretharanM&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GiretharanM&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🔥 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GiretharanM/GiretharanM/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/GiretharanM">
+
+<img src="https://img.shields.io/badge/GitHub-GiretharanM-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/giretharan-m-9413a9283">
+
+<img src="https://img.shields.io/badge/LinkedIn-Giretharan%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:giretharanmurugesan3@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=GiretharanM&style=for-the-badge&color=2563EB"/>
+
 </div>
