@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Giretharan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%7C%20AI%20and%20Application%20Developer&descAlignY=58&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Giretharan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Application%20Developer&descAlignY=58&descSize=16" alt="header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology+Student+at+PSG+College+of+Technology;Building+Full+Stack+Applications+for+Real+World+Problems;Interested+in+AI%2C+Analytics%2C+IoT%2C+and+Database+Systems;Focused+on+Learning+Scalable+Software+Engineering" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;B.Tech+Information+Technology+Student+at+PSG+College+of+Technology;Building+Full+Stack+Applications+for+Real+World+Problems;Interested+in+AI%2C+Analytics%2C+IoT%2C+and+Database+Systems;Focused+on+Learning+Scalable+Software+Engineering" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -18,13 +18,14 @@
 
 # 💫 About Me
 
-I am a **B.Tech Information Technology student** at **PSG College of Technology, Coimbatore**, passionate about **Full Stack Development, Artificial Intelligence, IoT, Analytics, and Database Engineering**.
+I am an **Aspiring Software Engineer** and **B.Tech Information Technology student** at **PSG College of Technology, Coimbatore**, passionate about **Full Stack Development, Artificial Intelligence, IoT, Analytics, and Database Engineering**.
 
 I enjoy building practical software that solves real-world problems through clean architecture, scalable backend systems, intuitive user interfaces, and data-driven solutions.
 
 - 🎓 B.Tech Information Technology (2023–2027)
 - 📍 Coimbatore, Tamil Nadu
-- 💻 Full Stack Developer
+- 💻 Aspiring Software Engineer
+- 🌐 Full Stack Developer
 - 🤖 AI & Analytics Learner
 - 🗄️ Database Engineering
 - 🚀 Currently building scalable software projects
@@ -105,8 +106,9 @@ I enjoy building practical software that solves real-world problems through clea
 ## 🧠 Core Computer Science
 
 - Data Structures & Algorithms
+- Design and Analysis of Algorithms
 - Operating Systems
-- Database Management System
+- Database Management Systems
 - Software Engineering
 - Machine Learning Fundamentals
 - Data Analytics
@@ -238,11 +240,13 @@ Database Management System for Digital Traffic Violation Processing.
 - 💻 Developed multiple Full Stack, IoT, and DBMS projects
 - 📈 Strong analytical and mathematical background
 - 👨‍💻 Passionate about Software Engineering
+- 🚀 Aspiring Software Engineer focused on building scalable applications
 
 ---
 
 # 🎯 Current Focus
 
+- 💻 Aspiring Software Engineer
 - Building Full Stack Applications
 - AI-powered Software Products
 - Backend Engineering
@@ -250,6 +254,8 @@ Database Management System for Digital Traffic Violation Processing.
 - Machine Learning
 - Analytics
 - System Design
+- Data Structures & Algorithms
+- Software Engineering
 - IoT Solutions
 
 ---
