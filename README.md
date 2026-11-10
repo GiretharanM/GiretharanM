@@ -336,19 +336,6 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-#  GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/GiretharanM">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiretharanM&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph">
-
-</a>
-
-</div>
-
----
 
 #  What I'm Learning
 
