@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Giretharan M
+# Hi, I'm Giretharan M
 
-### 🚀 Aspiring Software Engineer | Full Stack Developer | AI & Application Developer
+###  Aspiring Software Engineer | Full Stack Developer | AI & Application Developer
 
 <p>
   <b>B.Tech Information Technology Student</b><br>
@@ -25,7 +25,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I am a **B.Tech Information Technology student** at **PSG College of Technology, Coimbatore**, passionate about building practical software solutions for real-world problems.
 
@@ -33,40 +33,40 @@ My primary interests include **Software Engineering, Full Stack Development, Art
 
 I enjoy developing applications with clean architecture, responsive interfaces, scalable backend systems, and efficient database design.
 
-* 🎓 B.Tech Information Technology — **2023–2027**
-* 📍 Coimbatore, Tamil Nadu
-* 💻 Aspiring Software Engineer
-* 🌐 Full Stack Developer
-* 🤖 AI & Machine Learning Enthusiast
-* 🗄️ Backend & Database Developer
-* 📡 IoT & Embedded Systems Enthusiast
-* 🚀 Interested in scalable software engineering
+*  B.Tech Information Technology — **2023–2027**
+*  Coimbatore, Tamil Nadu
+*  Aspiring Software Engineer
+*  Full Stack Developer
+*  AI & Machine Learning Enthusiast
+*  Backend & Database Developer
+*  IoT & Embedded Systems Enthusiast
+*  Interested in scalable software engineering
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,php,c&perline=5" alt="Programming Languages">
 
 <br><br>
 
-### 🌐 Web Development
+###  Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,nodejs,express&perline=6" alt="Web Development">
 
 <br><br>
 
-### 🗄️ Databases
+###  Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle&perline=3" alt="Databases">
 
 <br><br>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools">
 
@@ -74,14 +74,14 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 ---
 
-# 🧠 Skills
+#  Skills
 
 <table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-## 💻 Software Engineering
+##  Software Engineering
 
 * Data Structures & Algorithms
 * Design & Analysis of Algorithms
@@ -95,7 +95,7 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 <td width="50%" valign="top">
 
-## 🗄️ Database Engineering
+##  Database Engineering
 
 * Database Management Systems
 * SQL
@@ -114,7 +114,7 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 <td width="50%" valign="top">
 
-## 🤖 AI & Data
+##  AI & Data
 
 * Machine Learning
 * Data Analytics
@@ -128,7 +128,7 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 <td width="50%" valign="top">
 
-## 📡 IoT & Embedded
+##  IoT & Embedded
 
 * Raspberry Pi Pico
 * MicroPython
@@ -145,7 +145,7 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table align="center">
 
@@ -153,7 +153,7 @@ I enjoy developing applications with clean architecture, responsive interfaces, 
 
 <td width="33%" valign="top">
 
-<h3 align="center">🚀 SMARTPOS AI</h3>
+<h3 align="center"> SMARTPOS AI</h3>
 
 <p align="center">
 AI-powered business management platform for billing, inventory, analytics, and business insights.
@@ -161,16 +161,16 @@ AI-powered business management platform for billing, inventory, analytics, and b
 
 ### Features
 
-* 🧾 Real-time Billing
-* 📦 Inventory Management
-* 👥 Customer Management
-* 📊 Sales Analytics
-* 🤖 AI Reports
-* 📈 Demand Prediction
-* ⚠️ Low Stock Alerts
-* 📋 Business Dashboard
-* 🔐 Secure Authentication
-* 👤 Multi-user Login
+*  Real-time Billing
+*  Inventory Management
+*  Customer Management
+*  Sales Analytics
+*  AI Reports
+*  Demand Prediction
+*  Low Stock Alerts
+*  Business Dashboard
+*  Secure Authentication
+*  Multi-user Login
 
 <p align="center">
 <a href="https://github.com/GiretharanM/SMARTPOS-AI">
@@ -182,7 +182,7 @@ AI-powered business management platform for billing, inventory, analytics, and b
 
 <td width="33%" valign="top">
 
-<h3 align="center">🪖 Smart Helmet</h3>
+<h3 align="center"> Smart Helmet</h3>
 
 <p align="center">
 IoT-based accident detection and emergency alert system designed to improve rider safety.
@@ -190,21 +190,21 @@ IoT-based accident detection and emergency alert system designed to improve ride
 
 ### Features
 
-* 🪖 Helmet Detection
-* 💥 Accident Detection
-* 📍 GPS Tracking
-* 📱 GSM Alerts
-* 🚨 Emergency SMS
-* 📊 Impact Analysis
-* 🔋 Battery Powered
-* 🧠 Raspberry Pi Pico
-* 🐍 MicroPython
+*  Helmet Detection
+*  Accident Detection
+*  GPS Tracking
+*  GSM Alerts
+*  Emergency SMS
+*  Impact Analysis
+*  Battery Powered
+*  Raspberry Pi Pico
+* MicroPython
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3 align="center">🚦 Traffic Violation DBMS</h3>
+<h3 align="center">Traffic Violation DBMS</h3>
 
 <p align="center">
 Database management system for digital traffic violation processing and challan management.
@@ -212,14 +212,14 @@ Database management system for digital traffic violation processing and challan 
 
 ### Features
 
-* 🗄️ Oracle Database
-* 💻 SQL
-* ⚙️ Triggers
-* 🔧 Stored Procedures
-* 🧾 Challan Automation
-* 📊 Monthly Reports
-* 🚗 Vehicle Records
-* 🧩 Database Normalization
+*  Oracle Database
+*  SQL
+*  Triggers
+*  Stored Procedures
+*  Challan Automation
+*  Monthly Reports
+*  Vehicle Records
+*  Database Normalization
 
 </td>
 
@@ -229,7 +229,7 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-# 🎓 Education
+#  Education
 
 <div align="center">
 
@@ -241,11 +241,11 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-# 📚 Relevant Coursework
+#  Relevant Coursework
 
 <div align="center">
 
-| 💻 Computer Science             | 🤖 AI & Data         | ⚙️ Systems                         |
+|    Computer Science             | AI & Data         |       Systems                         |
 | :------------------------------ | :------------------- | :--------------------------------- |
 | Data Structures & Algorithms    | Machine Learning     | Operating Systems                  |
 | Design & Analysis of Algorithms | Data Analytics       | Computer Networks                  |
@@ -257,63 +257,63 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 <div align="center">
 
-🏅 **99% — Class X**
+**99% — Class X**
 
 <br>
 
-💻 **Developed Full Stack, IoT & DBMS Projects**
+ **Developed Full Stack, IoT & DBMS Projects**
 
 <br>
 
-📊 **Strong Analytical & Problem-Solving Skills**
+ **Strong Analytical & Problem-Solving Skills**
 
 <br>
 
-🚀 **Passionate About Software Engineering**
+  **Passionate About Software Engineering**
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+#   Current Focus
 
 <div align="center">
 
-### 💻 Software Engineering
+###   Software Engineering
 
 ↓
 
-### 🌐 Full Stack Development
+###   Full Stack Development
 
 ↓
 
-### ⚙️ Backend Engineering
+###   Backend Engineering
 
 ↓
 
-### 🗄️ Database Systems
+###   Database Systems
 
 ↓
 
-### 🤖 AI & Machine Learning
+###   AI & Machine Learning
 
 ↓
 
-### 📐 System Design
+###   System Design
 
 ↓
 
-### 🚀 Scalable Software Applications
+###  Scalable Software Applications
 
 </div>
 
 ---
 
-# 📊 GitHub
+#  GitHub
 
 <div align="center">
 
@@ -339,7 +339,7 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-# 📈 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -353,26 +353,26 @@ Database management system for digital traffic violation processing and challan 
 
 ---
 
-# 💡 What I'm Learning
+#  What I'm Learning
 
 <div align="center">
 
 | Area                    | Focus                                       |
 | :---------------------- | :------------------------------------------ |
-| 💻 Software Engineering | Clean Code & Scalable Applications          |
-| 🌐 Full Stack           | Frontend + Backend Development              |
-| ⚙️ Backend              | APIs & Server-side Development              |
-| 🗄️ Databases           | SQL, NoSQL & Database Design                |
-| 🤖 AI                   | Machine Learning & Intelligent Applications |
-| 📊 Analytics            | Data Processing & Visualization             |
-| 📡 IoT                  | Embedded Systems & Connected Devices        |
-| 📐 System Design        | Scalable Software Architecture              |
+|    Software Engineering | Clean Code & Scalable Applications          |
+|    Full Stack           | Frontend + Backend Development              |
+|    Backend              | APIs & Server-side Development              |
+|     Databases           | SQL, NoSQL & Database Design                |
+|    AI                   | Machine Learning & Intelligent Applications |
+|    Analytics            | Data Processing & Visualization             |
+|    IoT                  | Embedded Systems & Connected Devices        |
+|    System Design        | Scalable Software Architecture              |
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -394,7 +394,7 @@ Database management system for digital traffic violation processing and challan 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <br>
 
@@ -402,6 +402,6 @@ Database management system for digital traffic violation processing and challan 
 
 <br><br>
 
-### 💡 Code • Learn • Build • Innovate
+###  Code • Learn • Build • Innovate
 
 </div>
