@@ -251,7 +251,6 @@ Database management system for digital traffic violation processing and challan 
 | Design & Analysis of Algorithms | Data Analytics       | Computer Networks                  |
 | Database Management Systems     | Linear Algebra       | Internet of Things                 |
 | Object-Oriented Programming     | Discrete Mathematics | Microprocessors & Microcontrollers |
-| Automata Theory                 | —                    | Software Engineering               |
 
 </div>
 
@@ -261,11 +260,9 @@ Database management system for digital traffic violation processing and challan 
 
 <div align="center">
 
-**99% — Class X**
-
 <br>
 
- **Developed Full Stack, IoT & DBMS Projects**
+ **Developed Full Stack,Ai & IoT & DBMS Projects**
 
 <br>
 
